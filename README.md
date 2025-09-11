@@ -14,7 +14,7 @@ Facilitar a visualização e análise de dados relacionados a colaboradores, sal
 - Análise mensal de salário base com gráficos interativos  
 
 ## 📷 Visual do Dashboard  
-[Dashboard RH]([Dashboard - SENAI.png](https://github.com/dayane-sampaio/dashboard-rh/blob/main/Dashboard%20-%20SENAI.png))  
+![Dashboard - SENAI.png](https://github.com/dayane-sampaio/dashboard-rh/blob/main/Dashboard%20-%20SENAI.png)
 
 ## 🚀 Tecnologias Utilizadas  
 - **Power BI** para criação e visualização dos dashboards  
